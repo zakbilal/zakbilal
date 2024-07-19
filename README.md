@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zak
-- 👀 I’m interested in frontend (Vite + React + TS + tailwind )
+- 👀 I’m interested in frontend (Vite + React + TS + Tailwind )
 - 🌱 I’m currently learning data structures and algorithms 
 - 💞️ I’m looking to collaborate on big projects
 - 📫 How to reach me 
